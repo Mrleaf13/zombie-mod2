@@ -1,0 +1,114 @@
+[1/08/2023 17:01:46.028] Started new log on 1/08/2023 17:01:46.028
+[1/08/2023 17:01:46.030] ====================================================================================================
+[1/08/2023 17:01:46.012] Log path: D:\GTAV\RagePluginHook.log
+[1/08/2023 17:01:46.030] Log verbosity: Trivial
+[1/08/2023 17:01:46.033] Initializing input system
+[1/08/2023 17:01:46.036] Initializing game console
+[1/08/2023 17:01:46.043] Console key has been set to F4 (key code: 115)
+[1/08/2023 17:01:46.100] Initializing console variable "ConsoleScrollAmount".
+[1/08/2023 17:01:46.100] Type: System.Int32, Reading section: "Miscellaneous", key: ConsoleScrollAmount
+[1/08/2023 17:01:46.102] Read value: <null>
+[1/08/2023 17:01:46.103] Initializing console variable "ConsoleKey".
+[1/08/2023 17:01:46.103] Type: System.Windows.Forms.Keys, Reading section: "Miscellaneous", key: ConsoleKey
+[1/08/2023 17:01:46.103] Read value: <null>
+[1/08/2023 17:01:46.104] Initializing console variable "PluginTimeoutThreshold".
+[1/08/2023 17:01:46.104] Type: System.Int32, Reading section: "Miscellaneous", key: PluginTimeoutThreshold
+[1/08/2023 17:01:46.107] Read value: 10000
+[1/08/2023 17:01:46.107] Setting value of console variable "PluginTimeoutThreshold" to stored value.
+[1/08/2023 17:01:46.107] Initializing console variable "AlwaysShowConsoleOutput".
+[1/08/2023 17:01:46.107] Type: System.Boolean, Reading section: "Miscellaneous", key: AlwaysShowConsoleOutput
+[1/08/2023 17:01:46.107] Read value: <null>
+[1/08/2023 17:01:46.107] Initializing console variable "ShowConsoleCommandInfoOnPluginLoad".
+[1/08/2023 17:01:46.107] Type: System.Boolean, Reading section: "Miscellaneous", key: ShowConsoleCommandInfoOnPluginLoad
+[1/08/2023 17:01:46.108] Read value: <null>
+[1/08/2023 17:01:46.108] Initializing console variable "ShowOnScreenWarnings".
+[1/08/2023 17:01:46.108] Type: System.Boolean, Reading section: "Miscellaneous", key: ShowOnScreenWarnings
+[1/08/2023 17:01:46.108] Read value: <null>
+[1/08/2023 17:01:46.108] Console initialized
+[1/08/2023 17:01:46.108] Initializing forms manager
+[1/08/2023 17:01:46.111] Cleaning temp folder
+[1/08/2023 17:01:46.112] Version: RAGE Plugin Hook v1.105.1329.16507 for Grand Theft Auto V
+[1/08/2023 17:01:46.118] ================ RAGE Plugin Hook ================
+[8/1/2023 5:01:46 PM.127] Detected Windows 10 Home (64-bit) (10.0.22000.0)!
+[8/1/2023 5:01:46 PM.127] Checking game support
+[8/1/2023 5:01:46 PM.266] Product name: Grand Theft Auto V
+[8/1/2023 5:01:46 PM.266] Product version: 1.0.2944.0
+[8/1/2023 5:01:46 PM.266] Is steam version: True
+[8/1/2023 5:01:46 PM.267] Initializing DirectX
+[8/1/2023 5:01:46 PM.269] Initializing Direct3D
+[8/1/2023 5:01:46 PM.269] Getting game swap chain
+[8/1/2023 5:01:46 PM.363] Swap Chain created: 0x7FF6363AA350
+[8/1/2023 5:01:46 PM.363] Swap Chain VTable: 0x1D2FE8464F0
+[8/1/2023 5:01:46 PM.363] 0x74894810245C8948;0x8D48564157552024;0x170EC814890246C
+[8/1/2023 5:01:46 PM.363] D3D11Present: 0x7FFA659114C0
+[8/1/2023 5:01:46 PM.363] D3D11ResizeBuffers: 0x7FFA65938220
+[8/1/2023 5:01:46 PM.363] D3D11ResizeTarget: 0x7FFA659871F0
+[8/1/2023 5:01:46 PM.363] D3D11SetFullscreenState: 0x7FFA65938DE0
+[8/1/2023 5:01:46 PM.364] Direct3D initialized
+[8/1/2023 5:01:46 PM.364] Initialized DirectX
+[8/1/2023 5:01:46 PM.364] Direct3D watcher thread spawned
+[8/1/2023 5:01:46 PM.376] Getting device
+[8/1/2023 5:01:46 PM.376] Retrieved device
+[8/1/2023 5:01:46 PM.376] Creating wrapper
+[8/1/2023 5:01:46 PM.569] Wrapper created
+[8/1/2023 5:01:46 PM.574] Effect created
+[8/1/2023 5:01:46 PM.574] Creating buffer
+[8/1/2023 5:01:46 PM.574] Created buffer
+[8/1/2023 5:01:46 PM.574] Creating blend state
+[8/1/2023 5:01:46 PM.574] Created blend state
+[8/1/2023 5:01:46 PM.574] Done with creation
+[8/1/2023 5:01:46 PM.626] Initializing texture system.
+[8/1/2023 5:01:46 PM.626] Initializing texture system; phase 1
+[8/1/2023 5:01:46 PM.626] Initializing texture system; phase 2
+[8/1/2023 5:01:46 PM.633] Initializing texture system; phase 3
+[8/1/2023 5:01:46 PM.634] Initializing texture system; phase 4
+[8/1/2023 5:01:46 PM.643] Initializing texture system; phase 5
+[8/1/2023 5:01:46 PM.644] Initializing texture system; phase 6
+[8/1/2023 5:01:46 PM.645] Initializing texture system; phase 7
+[8/1/2023 5:01:46 PM.647] Initializing texture system; phase 8
+[8/1/2023 5:01:46 PM.648] Initializing texture system; phase 9
+[8/1/2023 5:01:46 PM.648] Initializing texture system; phase 10
+[8/1/2023 5:01:46 PM.650] Initializing texture system; phase 11
+[8/1/2023 5:01:46 PM.650] Initializing texture system; phase 12
+[8/1/2023 5:01:46 PM.652] Initializing texture system; phase 13
+[8/1/2023 5:01:46 PM.652] Initializing texture system; phase 14
+[8/1/2023 5:01:47 PM.517] LoadingScreenMsg: Initializing game support
+[8/1/2023 5:01:47 PM.768] Initializing game support
+[8/1/2023 5:01:51 PM.365] Direct3D watcher thread ended
+[8/1/2023 5:01:53 PM.434] LoadingScreenMsg: Velocity limit removed
+[8/1/2023 5:01:53 PM.748] Compatibility level: 0
+[8/1/2023 5:01:53 PM.748] Supported version detected
+[8/1/2023 5:01:53 PM.748] ==================================================
+[8/1/2023 5:01:53 PM.748] LoadingScreenMsg: Patching code
+[8/1/2023 5:01:54 PM.000] LoadingScreenMsg: Waiting for game initialization
+[8/1/2023 5:01:54 PM.250] Waiting for game initialization
+[8/1/2023 5:01:54 PM.351] LoadingScreenMsg: Initializing core
+[8/1/2023 5:01:54 PM.601] Initializing hook
+[8/1/2023 5:01:59 PM.719] LoadingScreenMsg: Completing interoperability
+[8/1/2023 5:01:59 PM.969] Completing interoperability
+[8/1/2023 5:01:59 PM.969] Initialization code 1.
+[8/1/2023 5:01:59 PM.969] Initialization code 2.
+[8/1/2023 5:01:59 PM.969] Initialization code 3.
+[8/1/2023 5:01:59 PM.977] 1 Address: 0x00007FF634146950
+[8/1/2023 5:01:59 PM.977] Calling func 1
+[8/1/2023 5:01:59 PM.993] 2 Address: 0x00007FF634D17B7E
+[8/1/2023 5:01:59 PM.993] 3 Address: 0x00007FF633705FF6
+[8/1/2023 5:02:00 PM.021] Address: 0x00007FF634D17B28
+[8/1/2023 5:02:00 PM.021] Unknown var: 0x00007FF635D6FE30
+[8/1/2023 5:02:00 PM.021] Initialization code 4.
+[8/1/2023 5:02:00 PM.021] Initialization code 5.
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 1
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 2
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 3
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 4
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 5
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 6
+[8/1/2023 5:02:00 PM.021] Completing interoperability, phase 7
+[8/1/2023 5:02:00 PM.021] LoadingScreenMsg: 
+[8/1/2023 5:02:00 PM.272] LoadingScreenMsg: Loading Story Mode
+[8/1/2023 5:02:08 PM.462] Initializing console variable "IsDeveloperModeEnabled".
+[8/1/2023 5:02:08 PM.462] Type: System.Boolean, Reading section: "Miscellaneous", key: IsDeveloperModeEnabled
+[8/1/2023 5:02:08 PM.462] Read value: <null>
+[8/1/2023 5:02:08 PM.462] Initializing console variable "TimeScale".
+[8/1/2023 5:02:08 PM.462] Type: System.Single, Reading section: "Miscellaneous", key: TimeScale
+[8/1/2023 5:02:08 PM.463] Read value: <null>
